@@ -1,5 +1,6 @@
-## print("Hello World!") :wave::earth_americas:
-My name is Vita and I am currently studying software development in Alberta, Canada
+<!-- ## print("Hello World!") :wave::earth_americas: -->
+![banner](header.png)
+Software development student in Alberta, Canada 	:smile:
 
 ## Connect With Me! ☕
 
