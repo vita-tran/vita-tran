@@ -1,6 +1,6 @@
 <!-- ## print("Hello World!") :wave::earth_americas: -->
 ![banner](header.png)
-Software development student in Alberta, Canada 	:smile:
+
 
 ## Connect With Me! ☕
 
