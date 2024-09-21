@@ -1,6 +1,12 @@
 <!-- ## print("Hello World!") :wave::earth_americas: -->
 ![banner](header.png)
 
+
+## About Me! 
+- 🌱 I am a software development student at Northern Alberta Institute of Technology
+- ⚡ I'm currently working as a web analyst for Canada Energy Regulator
+
+ 
 [![An image of @vitatrn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vitatrn)](https://holopin.io/@vitatrn)
 
 ## Connect With Me! ☕
