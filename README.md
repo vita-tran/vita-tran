@@ -4,7 +4,7 @@
 
 ## About Me! 
 -  I am a Computer Software Development student at Northern Alberta Institute of Technology
--  Currently working as a Web Analyst for Canada Energy Regulator 
+-  Currently working as a Web Administrator for Canada Energy Regulator 
 
 [![An image of @vitatrn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vitatrn)](https://holopin.io/@vitatrn)
 
